@@ -2,4 +2,5 @@ package com.sjh;
 
 public class Person {
     private int age;
+    private String name;
 }
